@@ -66,4 +66,4 @@ GuessTheNumber/
 
 ---
 
-© 2024 jttd3v. All rights reserved.
+© 2025 jttd3v. All rights reserved.
