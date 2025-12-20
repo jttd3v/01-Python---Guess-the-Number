@@ -10,8 +10,8 @@ Instructions:
 2. Execute this script in the master database context
 3. Verify database creation by refreshing the Databases folder
 
-Author: Development Team
-Date: 2024
+Author: jttd3v
+Date: 2025-12-19
 ================================================================================
 */
 
